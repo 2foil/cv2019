@@ -37,8 +37,8 @@ Then, follow the steps below:
 
 ```python
 img = Image.open('path/to/image')           # open the test image.
-bb, _ = detect_faces(Image.open(img))       # using the MTCNN to detect the human face
-new_img = show_boxes(img, bb, 'yellow', 3)  # get the new image with the human face labeled
+bb, _ = detect_faces(img)       # using the MTCNN to detect the human face
+new_img = show_boxes(img, bb, 'yellow', 3)  # get the new image with the human face labeled by yellow boxes
 new_img.save('path/to/new_img.jpg')        # save the result image for review
 
 ```
