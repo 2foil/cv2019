@@ -5,7 +5,7 @@
 ![](https://img.shields.io/pypi/l/numpy.svg)
 ![](https://img.shields.io/github/languages/code-size/2foil/cv2019.svg)
 ![](https://img.shields.io/pypi/format/torch.svg)
-![](https://img.shields.io/badge/pytorch-1.1.0-yellowgreen.svg)
+![](https://img.shields.io/badge/pytorch-1.1.0-brightgreen.svg)
 
 ## Files
 - `src/` the source code of our project
