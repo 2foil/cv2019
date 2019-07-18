@@ -15,7 +15,10 @@
 
 The jupyter files demonstrate the usage of our program.
 
-## Dependency
+## Requirement
+
+- numpy, Pillow
+- pytorch 1.1.0
 
 To run our code for face detection, you should have `pytorch` installed.
 If not, use `pip intsall torch` to install pytorch.
@@ -49,3 +52,8 @@ Just open the `new_img.jpg` saved and you'll find all the faces are detected on 
 
 ## Face Detection Demo
 ![demo](./new_8.JPG)
+
+## Reference
+
+[Zhang, K., Zhang, Z., Li, Z. and Qiao, Y., 2016. Joint face detection and alignment using multitask cascaded convolutional networks. IEEE Signal Processing Letters, 23(10), pp.1499-1503.](https://arxiv.org/abs/1604.02878)
+
