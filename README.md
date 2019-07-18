@@ -29,7 +29,7 @@ Suppose you have a test image, on which you want to detect faces and its path is
 First, import the functions and modules we need.
 
 ```python
-from src import detect_faces, show_bboxes
+from src import detect_faces, show_boxes
 from PIL import Image
 ```
 
