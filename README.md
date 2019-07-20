@@ -21,7 +21,7 @@ The jupyter files demonstrate the usage of our program.
 - pytorch 1.1.0
 
 To run our code for face detection, you should have `pytorch` installed.
-If not, use `pip intsall torch` to install pytorch.
+If not, use `pip install torch` to install pytorch.
 
 ## Usage
 
